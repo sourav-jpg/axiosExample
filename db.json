@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "course": "python",
+      "trainer": "deepti",
+      "id": 4
+    },
+    {
+      "course": "mern",
+      "trainer": "rahul",
+      "id": 5
+    },
+    {
+      "course": "css",
+      "trainer": "syed",
+      "id": 7
+    },
+    {
+      "course": "data staructures",
+      "trainer": "rajeshwari",
+      "id": 8
+    },
+    {
+      "course": "english",
+      "trainer": "upasana",
+      "id": 9
+    }
+  ]
+}
